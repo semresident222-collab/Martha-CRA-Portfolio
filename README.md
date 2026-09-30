@@ -11,7 +11,7 @@ Neurology / Regulatory. Analyses how independent evidence evaluation became opti
 Door 2 — KEYNOTE-991 (Pembrolizumab + Enzalutamide)
 Oncology. Identifies cytotoxic chemotherapy assumptions applied to immune checkpoint biology. Proposes Adaptive Futility Boundary with immunotherapy-aware conditional power, plus Integrated Safety-Efficacy Monitoring with IPCW analysis and structured irAE rechallenge.
 
-Door 3 — Adult ADHD Digital Biomarker Feasibility
+Door 3 — African Women ADHD Digital Biomarker Feasibility
 CNS / Neurodevelopmental. Phase II site feasibility assessment for a digital biomarker-aided diagnostic protocol targeting adult West African women with unrecognised ADHD in Berlin. Three-tier biomarker battery: actigraphy, continuous performance testing, smartphone passive monitoring. GDPR Article 9 privacy-by-design architecture.
 
 What This Is
